@@ -1,0 +1,16 @@
+
+h1{
+    font-size: 30px;  
+    text-align: center;    
+    color: #606c79    
+    }
+        
+p{    
+    font-size: 20px;    
+    text-align: left;    
+    font-family: 'Courier New', Courier, monospace;    
+    }
+    
+body {    
+    background-color: #F5DEB3;    
+    }
